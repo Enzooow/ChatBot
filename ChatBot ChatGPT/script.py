@@ -1,6 +1,6 @@
 import openai
 
-API_KEY = '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'
+API_KEY = 'secret_API_key'
 openai.api_key = API_KEY
 
 question = input("This is the most basic ChatBot ChatGPT based project.\n Ask anything that I'll answer!\n ->")
